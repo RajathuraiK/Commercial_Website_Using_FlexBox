@@ -1083,16 +1083,16 @@ header {
 
 ### Home
 
-![Home]("./output-01.png")
+![Home](./output-01.png)
 
 ### Discover
-![Discover]("./output-02.png")
+![Discover](./output-02.png)
 
 ### Our Story
-![Our Story]("./output-03.png")
+![Our Story](./output-03.png)
 
 ### Contact Us
-![Contact Us]("./output-04.png")
+![Contact Us](./output-04.png)
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
